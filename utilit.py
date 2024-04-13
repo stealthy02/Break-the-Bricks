@@ -3,8 +3,8 @@ from object import *
 from typing import Union
 
 images = {
-    '发射':pygame.image.load("素材\发射.png"),
-    '分裂':pygame.image.load("素材\分裂.png")
+    '发射':pygame.image.load("other\发射.png"),
+    '分裂':pygame.image.load("other\分裂.png")
     }
 
 def select_minimum(a,b,c):
